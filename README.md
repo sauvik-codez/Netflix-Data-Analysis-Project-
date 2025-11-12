@@ -89,12 +89,9 @@ The goal of this notebook is to perform **exploratory data analysis (EDA)** on N
 
 ---
 
-
----
-
 ## 👤 Author
 
-**Sauvik Pal**
-📧 [sauvikpal2005@gmail.com](mailto:your.email@example.com)
+**Sauvik Pal** ||  
+📧 [sauvikpal2005@gmail.com](mailto:your.email@example.com) ||  
 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sauvik-pal-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU52cbN6qSxiOcBy0x4yC3w%3D%3D)) | 🐙 [GitHub](https://github.com/sauvik-codez)
 
