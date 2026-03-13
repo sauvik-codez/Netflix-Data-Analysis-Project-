@@ -1,7 +1,7 @@
 # 📺 Netflix Data Analysis
 
 This project explores and analyzes the **Netflix Movies and TV Shows dataset** to uncover insights about content distribution, trends, and patterns across genres, release years, and countries. The analysis is performed in **Python** using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
-For Dashboard view this repo:[Dashboard] (https://github.com/sauvik-codez/NETFLIX-DASHBOARD)
+For Dashboard view this repo:[Dashboard](https://github.com/sauvik-codez/NETFLIX-DASHBOARD)
 ---
 
 ## 🧠 Project Overview
