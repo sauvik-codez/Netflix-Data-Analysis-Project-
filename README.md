@@ -35,7 +35,7 @@ The goal of this notebook is to perform **exploratory data analysis (EDA)** on N
   * `numpy` – Numerical operations
   * `matplotlib` & `seaborn` – Data visualization
   * `plotly` *(optional)* – Interactive charts
-
+* **Power-BI**
 ---
 
 ## 🚀 Steps Performed
@@ -57,6 +57,8 @@ The goal of this notebook is to perform **exploratory data analysis (EDA)** on N
    * Bar plots, heatmaps, and trend lines for deeper insights
    * Correlation and frequency analysis
 
+4. *Dashboard creation*
+
 ---
 
 ## 📊 Key Insights
@@ -73,7 +75,7 @@ The goal of this notebook is to perform **exploratory data analysis (EDA)** on N
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflix-analysis.git
+   git clone https://github.com/sauvik-codez/netflix-analysis.git
    cd netflix-analysis
    ```
 2. Install dependencies:
